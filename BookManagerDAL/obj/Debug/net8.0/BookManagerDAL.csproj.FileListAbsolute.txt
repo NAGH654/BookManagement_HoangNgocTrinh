@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\bin\Debug\net8.0\BookManagerDAL.deps.json
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\bin\Debug\net8.0\BookManagerDAL.runtimeconfig.json
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\bin\Debug\net8.0\BookManagerDAL.dll
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\bin\Debug\net8.0\BookManagerDAL.pdb
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.dll
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\refint\BookManagerDAL.dll
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.pdb
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\BookManagerDAL.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh.8\BookManagerDAL\obj\Debug\net8.0\ref\BookManagerDAL.dll
